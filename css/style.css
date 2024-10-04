@@ -1,0 +1,33 @@
+body {
+    background-color: #E0D299;
+    color: #E05100;
+    font-family: Dosis;
+    font-size:
+    
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Graduate;
+    font-size: 2.2rem;
+}
+
+header {
+    text-align: center;
+
+}
+
+#hero, footer {
+    color: #E05100;
+    text-align: center;
+    background-color: #E0BE96;
+    padding-bottom: 8px;
+    border: dashed #E09280;
+}
+
+#hero img {
+    width: 200px;
+}
+
+#bio {
+    text-align: center;
+}
