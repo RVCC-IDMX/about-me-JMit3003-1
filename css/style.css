@@ -59,6 +59,29 @@ header {
     
  }
 
+ /*Literature */
+
+ #lit {
+    border: dashed 3px #E09280;
+    margin: 2rem auto;
+    padding: 2rem;
+    max-width: 100%
+ }
+
+ #lit div p:first-letter {
+    color: Black;
+    float: left;
+    font-size: 2rem;
+    padding: .1em;
+    margin-right: 3px;
+    line-height: .40;
+    border: ridge 7px #E09280;
+    border-radius: 5px;
+    box-shadow: 1px 2px 1px;
+    border-top-right-radius: .5em;
+    text-shadow: 1px 1px 1px #E05100;
+ }
+
 
 
 
