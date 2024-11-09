@@ -20,6 +20,7 @@ header {
 
 }
 
+/*Hero Section */
 #hero, footer {
     color: #E05100;
     text-align: center;
@@ -32,10 +33,12 @@ header {
     width: 200px;
 }
 
+/*Bio Section */
 #bio {
     text-align: center;
 }
 
+/*Hobbies Section */
 #hobbies ul li:nth-child(even) {
     color: black;
 
@@ -44,6 +47,17 @@ header {
 #hobbies ul li:nth-child(odd) {
     color: #E08f2f;
 }
+
+/*Gallery Section */
+#gallery {
+    text-align: center;
+    border: solid 3px #E05100;
+
+}
+ #gallery img {
+    max-width: 90%;
+    
+ }
 
 
 
